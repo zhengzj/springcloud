@@ -7,6 +7,11 @@ import org.springframework.cloud.netflix.eureka.EnableEurekaClient;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
+/**
+ * 功能描述: 启动入口
+ * @author zheng.zhijian
+ * @date: 2019/1/25 16:02
+ */
 @SpringBootApplication
 @EnableEurekaClient
 @RestController
